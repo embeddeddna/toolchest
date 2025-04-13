@@ -1,0 +1,39 @@
+# Build files
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# Dependency files
+*.d
+
+# Compiled dynamic libraries
+*.dylib
+
+# Editor/IDE specific files
+*.log
+*.swp
+*~
+.vscode/
+.idea/
+*.user
+*.workspace
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# CMake and Makefile output
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Binaries
+bin/
+build/
+
